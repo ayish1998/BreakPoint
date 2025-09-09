@@ -1,0 +1,915 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Users\\Ayishatu\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '--save-exact',
+1 verbose cli   '--save-dev',
+1 verbose cli   '@types/react',
+1 verbose cli   '@types/node'
+1 verbose cli ]
+2 info using npm@2.15.12
+3 info using node@v22.14.0
+4 verbose install initial load of C:\Users\Ayishatu\BreakPoint\frontend\package.json
+5 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\acorn\package.json
+6 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\acorn-jsx\package.json
+7 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\ajv\package.json
+8 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\any-promise\package.json
+9 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\arg\package.json
+10 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\argparse\package.json
+11 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\aria-query\package.json
+12 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\array-buffer-byte-length\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\array-includes\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\array-union\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\array.prototype.findlast\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\array.prototype.findlastindex\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\array.prototype.flat\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\array.prototype.flatmap\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\array.prototype.tosorted\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\arraybuffer.prototype.slice\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\ast-types-flow\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\async-function\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\autoprefixer\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\available-typed-arrays\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\axe-core\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\axobject-query\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\browserslist\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\busboy\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\call-bind\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\callsites\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\camelcase-css\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\caniuse-lite\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\client-only\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\commander\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\cross-spawn\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\cssesc\package.json
+37 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\damerau-levenshtein\package.json
+38 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\data-view-buffer\package.json
+39 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\data-view-byte-length\package.json
+40 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\data-view-byte-offset\package.json
+41 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\debug\package.json
+42 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\deep-is\package.json
+43 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\define-data-property\package.json
+44 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\define-properties\package.json
+45 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\didyoumean\package.json
+46 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\dir-glob\package.json
+47 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\dlv\package.json
+48 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\doctrine\package.json
+49 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eastasianwidth\package.json
+50 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\electron-to-chromium\package.json
+51 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\emoji-regex\package.json
+52 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\es-abstract\package.json
+53 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\es-iterator-helpers\package.json
+54 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\es-set-tostringtag\package.json
+55 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\es-shim-unscopables\package.json
+56 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\es-to-primitive\package.json
+57 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\escape-string-regexp\package.json
+58 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint\package.json
+59 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-config-next\package.json
+60 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-import-resolver-node\package.json
+61 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-import-resolver-typescript\package.json
+62 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-module-utils\package.json
+63 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-plugin-import\package.json
+64 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-plugin-jsx-a11y\package.json
+65 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-plugin-react\package.json
+66 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-plugin-react-hooks\package.json
+67 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-scope\package.json
+68 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\eslint-visitor-keys\package.json
+69 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\espree\package.json
+70 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\esquery\package.json
+71 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\esrecurse\package.json
+72 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\estraverse\package.json
+73 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\esutils\package.json
+74 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\fast-deep-equal\package.json
+75 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\fast-glob\package.json
+76 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\fast-json-stable-stringify\package.json
+77 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\fast-levenshtein\package.json
+78 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\fastq\package.json
+79 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\file-entry-cache\package.json
+80 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\find-up\package.json
+81 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\flat-cache\package.json
+82 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\flatted\package.json
+83 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\for-each\package.json
+84 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\foreground-child\package.json
+85 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\fraction.js\package.json
+86 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\fs.realpath\package.json
+87 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\function.prototype.name\package.json
+88 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\functions-have-names\package.json
+89 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\get-symbol-description\package.json
+90 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\get-tsconfig\package.json
+91 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\glob\package.json
+92 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\glob-parent\package.json
+93 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\globals\package.json
+94 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\globalthis\package.json
+95 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\globby\package.json
+96 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\graceful-fs\package.json
+97 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\graphemer\package.json
+98 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\has-bigints\package.json
+99 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\has-property-descriptors\package.json
+100 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\has-proto\package.json
+101 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\has-tostringtag\package.json
+102 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\ignore\package.json
+103 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\import-fresh\package.json
+104 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\imurmurhash\package.json
+105 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\inflight\package.json
+106 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\internal-slot\package.json
+107 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-array-buffer\package.json
+108 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-async-function\package.json
+109 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-bigint\package.json
+110 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-boolean-object\package.json
+111 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-bun-module\package.json
+112 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-callable\package.json
+113 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-core-module\package.json
+114 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-data-view\package.json
+115 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-date-object\package.json
+116 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-finalizationregistry\package.json
+117 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-generator-function\package.json
+118 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-map\package.json
+119 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-negative-zero\package.json
+120 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-number-object\package.json
+121 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-path-inside\package.json
+122 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-regex\package.json
+123 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-set\package.json
+124 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-shared-array-buffer\package.json
+125 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-string\package.json
+126 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-symbol\package.json
+127 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-typed-array\package.json
+128 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-weakmap\package.json
+129 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-weakref\package.json
+130 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\is-weakset\package.json
+131 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\isarray\package.json
+132 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\isexe\package.json
+133 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\iterator.prototype\package.json
+134 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\jackspeak\package.json
+135 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\jiti\package.json
+136 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\js-tokens\package.json
+137 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\js-yaml\package.json
+138 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\json-buffer\package.json
+139 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\json-schema-traverse\package.json
+140 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\json-stable-stringify-without-jsonify\package.json
+141 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\json5\package.json
+142 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\jsx-ast-utils\package.json
+143 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\keyv\package.json
+144 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\language-subtag-registry\package.json
+145 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\language-tags\package.json
+146 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\levn\package.json
+147 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\lilconfig\package.json
+148 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\lines-and-columns\package.json
+149 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\locate-path\package.json
+150 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\lodash.merge\package.json
+151 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\loose-envify\package.json
+152 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\lru-cache\package.json
+153 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\merge2\package.json
+154 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\micromatch\package.json
+155 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\minimist\package.json
+156 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\minipass\package.json
+157 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\ms\package.json
+158 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\mz\package.json
+159 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\nanoid\package.json
+160 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\napi-postinstall\package.json
+161 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\natural-compare\package.json
+162 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\next\package.json
+163 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\next-themes\package.json
+164 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\node-releases\package.json
+165 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\normalize-range\package.json
+166 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\object-hash\package.json
+167 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\object-keys\package.json
+168 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\object.assign\package.json
+169 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\object.entries\package.json
+170 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\object.fromentries\package.json
+171 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\object.groupby\package.json
+172 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\object.values\package.json
+173 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\once\package.json
+174 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\optionator\package.json
+175 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\own-keys\package.json
+176 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\p-limit\package.json
+177 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\p-locate\package.json
+178 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\parent-module\package.json
+179 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\path-exists\package.json
+180 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\path-is-absolute\package.json
+181 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\path-key\package.json
+182 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\path-parse\package.json
+183 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\path-scurry\package.json
+184 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\path-type\package.json
+185 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\picocolors\package.json
+186 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\pify\package.json
+187 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\pirates\package.json
+188 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\possible-typed-array-names\package.json
+189 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\postcss\package.json
+190 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\postcss-import\package.json
+191 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\postcss-js\package.json
+192 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\postcss-nested\package.json
+193 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\postcss-selector-parser\package.json
+194 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\postcss-value-parser\package.json
+195 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\prelude-ls\package.json
+196 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\prop-types\package.json
+197 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\queue-microtask\package.json
+198 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\react\package.json
+199 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\react-dom\package.json
+200 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\react-is\package.json
+201 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\read-cache\package.json
+202 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\reflect.getprototypeof\package.json
+203 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\regexp.prototype.flags\package.json
+204 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\resolve\package.json
+205 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\resolve-from\package.json
+206 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\resolve-pkg-maps\package.json
+207 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\reusify\package.json
+208 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\rimraf\package.json
+209 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\run-parallel\package.json
+210 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\safe-array-concat\package.json
+211 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\safe-push-apply\package.json
+212 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\safe-regex-test\package.json
+213 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\scheduler\package.json
+214 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\set-function-length\package.json
+215 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\set-function-name\package.json
+216 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\set-proto\package.json
+217 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\shebang-command\package.json
+218 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\shebang-regex\package.json
+219 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\signal-exit\package.json
+220 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\slash\package.json
+221 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\source-map-js\package.json
+222 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\stable-hash\package.json
+223 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\stop-iteration-iterator\package.json
+224 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\streamsearch\package.json
+225 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\string-width\package.json
+226 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\string-width-cjs\package.json
+227 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\string.prototype.includes\package.json
+228 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\string.prototype.matchall\package.json
+229 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\string.prototype.repeat\package.json
+230 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\string.prototype.trim\package.json
+231 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\string.prototype.trimend\package.json
+232 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\string.prototype.trimstart\package.json
+233 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\strip-ansi-cjs\package.json
+234 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\strip-bom\package.json
+235 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\strip-json-comments\package.json
+236 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\styled-jsx\package.json
+237 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\sucrase\package.json
+238 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\supports-preserve-symlinks-flag\package.json
+239 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\tailwindcss\package.json
+240 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\text-table\package.json
+241 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\thenify\package.json
+242 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\thenify-all\package.json
+243 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\tinyglobby\package.json
+244 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\ts-api-utils\package.json
+245 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\ts-interface-checker\package.json
+246 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\tsconfig-paths\package.json
+247 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\type-check\package.json
+248 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\type-fest\package.json
+249 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\typed-array-buffer\package.json
+250 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\typed-array-byte-length\package.json
+251 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\typed-array-byte-offset\package.json
+252 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\typed-array-length\package.json
+253 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\typescript\package.json
+254 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\unbox-primitive\package.json
+255 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\unrs-resolver\package.json
+256 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\update-browserslist-db\package.json
+257 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\uri-js\package.json
+258 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\util-deprecate\package.json
+259 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\which\package.json
+260 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\which-boxed-primitive\package.json
+261 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\which-builtin-type\package.json
+262 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\which-collection\package.json
+263 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\which-typed-array\package.json
+264 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\word-wrap\package.json
+265 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\wrap-ansi\package.json
+266 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\wrap-ansi-cjs\package.json
+267 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\wrappy\package.json
+268 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\yaml\package.json
+269 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\yocto-queue\package.json
+270 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@eslint-community\eslint-utils\package.json
+271 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@eslint-community\regexpp\package.json
+272 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@eslint\eslintrc\package.json
+273 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@eslint\js\package.json
+274 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@alloc\quick-lru\package.json
+275 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@isaacs\cliui\package.json
+276 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@next\env\package.json
+277 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@next\eslint-plugin-next\package.json
+278 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@next\swc-win32-x64-msvc\package.json
+279 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@humanwhocodes\config-array\package.json
+280 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@humanwhocodes\module-importer\package.json
+281 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@humanwhocodes\object-schema\package.json
+282 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@jridgewell\gen-mapping\package.json
+283 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@jridgewell\resolve-uri\package.json
+284 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@jridgewell\sourcemap-codec\package.json
+285 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@jridgewell\trace-mapping\package.json
+286 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@nolyfill\is-core-module\package.json
+287 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@nodelib\fs.scandir\package.json
+288 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@nodelib\fs.stat\package.json
+289 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@nodelib\fs.walk\package.json
+290 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@pkgjs\parseargs\package.json
+291 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@rtsao\scc\package.json
+292 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@swc\counter\package.json
+293 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@swc\helpers\package.json
+294 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@rushstack\eslint-patch\package.json
+295 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\json5\package.json
+296 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@ungap\structured-clone\package.json
+297 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@typescript-eslint\parser\package.json
+298 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@typescript-eslint\scope-manager\package.json
+299 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@typescript-eslint\types\package.json
+300 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@typescript-eslint\typescript-estree\package.json
+301 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@typescript-eslint\visitor-keys\package.json
+302 verbose installManyTop reading scoped package data from C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@unrs\resolver-binding-win32-x64-msvc\package.json
+303 info package.json client-only@0.0.1 No repository field.
+304 info package.json client-only@0.0.1 No README data
+305 info package.json eslint-config-next@14.2.5 No README data
+306 info package.json eslint-module-utils@2.12.1 No README data
+307 info package.json next-themes@0.3.0 No description
+308 info package.json next-themes@0.3.0 No README data
+309 info package.json @nolyfill/is-core-module@1.0.39 No description
+310 info package.json @nolyfill/is-core-module@1.0.39 No README data
+311 info package.json @swc/helpers@0.5.5 No README data
+312 info package.json busboy@1.6.0 No license field.
+313 info package.json jackspeak@2.3.6 license should be a valid SPDX license expression
+314 info package.json path-scurry@1.11.1 license should be a valid SPDX license expression
+315 info package.json streamsearch@1.1.0 No license field.
+316 verbose readDependencies loading dependencies from C:\Users\Ayishatu\BreakPoint\frontend\package.json
+317 silly cache add args [ '@types/react', null ]
+318 verbose cache add spec @types/react
+319 silly cache add args [ '@types/node', null ]
+320 verbose cache add spec @types/node
+321 silly cache add parsed spec Result {
+321 silly cache add   raw: '@types/react',
+321 silly cache add   scope: '@types',
+321 silly cache add   name: '@types/react',
+321 silly cache add   rawSpec: '',
+321 silly cache add   spec: 'latest',
+321 silly cache add   type: 'tag'
+321 silly cache add }
+322 silly addNamed @types/react@latest
+323 verbose addNamed "latest" is being treated as a dist-tag for @types/react
+324 info addNameTag [ '@types/react', 'latest' ]
+325 silly mapToRegistry name @types/react
+326 silly mapToRegistry scope (from package name) @types
+327 verbose mapToRegistry no registry URL found in name for scope @types
+328 silly mapToRegistry using default registry
+329 silly mapToRegistry registry https://registry.yarnpkg.com/
+330 silly mapToRegistry data Result {
+330 silly mapToRegistry   raw: '@types/react',
+330 silly mapToRegistry   scope: '@types',
+330 silly mapToRegistry   name: '@types/react',
+330 silly mapToRegistry   rawSpec: '',
+330 silly mapToRegistry   spec: 'latest',
+330 silly mapToRegistry   type: 'tag'
+330 silly mapToRegistry }
+331 silly mapToRegistry uri https://registry.yarnpkg.com/@types%2freact
+332 verbose addNameTag registry:https://registry.yarnpkg.com/@types%2freact not in flight; fetching
+333 silly cache add parsed spec Result {
+333 silly cache add   raw: '@types/node',
+333 silly cache add   scope: '@types',
+333 silly cache add   name: '@types/node',
+333 silly cache add   rawSpec: '',
+333 silly cache add   spec: 'latest',
+333 silly cache add   type: 'tag'
+333 silly cache add }
+334 silly addNamed @types/node@latest
+335 verbose addNamed "latest" is being treated as a dist-tag for @types/node
+336 info addNameTag [ '@types/node', 'latest' ]
+337 silly mapToRegistry name @types/node
+338 silly mapToRegistry scope (from package name) @types
+339 verbose mapToRegistry no registry URL found in name for scope @types
+340 silly mapToRegistry using default registry
+341 silly mapToRegistry registry https://registry.yarnpkg.com/
+342 silly mapToRegistry data Result {
+342 silly mapToRegistry   raw: '@types/node',
+342 silly mapToRegistry   scope: '@types',
+342 silly mapToRegistry   name: '@types/node',
+342 silly mapToRegistry   rawSpec: '',
+342 silly mapToRegistry   spec: 'latest',
+342 silly mapToRegistry   type: 'tag'
+342 silly mapToRegistry }
+343 silly mapToRegistry uri https://registry.yarnpkg.com/@types%2fnode
+344 verbose addNameTag registry:https://registry.yarnpkg.com/@types%2fnode not in flight; fetching
+345 verbose request uri https://registry.yarnpkg.com/@types%2freact
+346 verbose request no auth needed
+347 info attempt registry request try #1 at 12:18:01 pm
+348 verbose request id 8b30fd7f6c765fad
+349 http request GET https://registry.yarnpkg.com/@types%2freact
+350 verbose request uri https://registry.yarnpkg.com/@types%2fnode
+351 verbose request no auth needed
+352 info attempt registry request try #1 at 12:18:01 pm
+353 http request GET https://registry.yarnpkg.com/@types%2fnode
+354 http 200 https://registry.yarnpkg.com/@types%2freact
+355 verbose headers {
+355 verbose headers   date: 'Mon, 08 Sep 2025 12:18:05 GMT',
+355 verbose headers   'content-type': 'application/json',
+355 verbose headers   'transfer-encoding': 'chunked',
+355 verbose headers   connection: 'keep-alive',
+355 verbose headers   'content-encoding': 'gzip',
+355 verbose headers   'cf-ray': '97be62f0cdf5e3b1-LIS',
+355 verbose headers   'cf-cache-status': 'HIT',
+355 verbose headers   'access-control-allow-origin': '*',
+355 verbose headers   age: '46',
+355 verbose headers   'cache-control': 'public, max-age=300',
+355 verbose headers   etag: 'W/"77f4f7cf1d034dd3619ff11db451e161"',
+355 verbose headers   'last-modified': 'Wed, 27 Aug 2025 17:02:43 GMT',
+355 verbose headers   vary: 'accept-encoding, accept',
+355 verbose headers   'set-cookie': [
+355 verbose headers     '_cfuvid=8hm2PPVUwH7wEvApL2GbJOSXjVc9QVWI9v0d7m8y9WE-1757333885615-0.0.1.1-604800000; path=/; domain=.registry.yarnpkg.com; HttpOnly; Secure; SameSite=None'
+355 verbose headers   ],
+355 verbose headers   server: 'cloudflare'
+355 verbose headers }
+356 silly get cb [
+356 silly get   200,
+356 silly get   {
+356 silly get     date: 'Mon, 08 Sep 2025 12:18:05 GMT',
+356 silly get     'content-type': 'application/json',
+356 silly get     'transfer-encoding': 'chunked',
+356 silly get     connection: 'keep-alive',
+356 silly get     'content-encoding': 'gzip',
+356 silly get     'cf-ray': '97be62f0cdf5e3b1-LIS',
+356 silly get     'cf-cache-status': 'HIT',
+356 silly get     'access-control-allow-origin': '*',
+356 silly get     age: '46',
+356 silly get     'cache-control': 'public, max-age=300',
+356 silly get     etag: 'W/"77f4f7cf1d034dd3619ff11db451e161"',
+356 silly get     'last-modified': 'Wed, 27 Aug 2025 17:02:43 GMT',
+356 silly get     vary: 'accept-encoding, accept',
+356 silly get     'set-cookie': [
+356 silly get       '_cfuvid=8hm2PPVUwH7wEvApL2GbJOSXjVc9QVWI9v0d7m8y9WE-1757333885615-0.0.1.1-604800000; path=/; domain=.registry.yarnpkg.com; HttpOnly; Secure; SameSite=None'
+356 silly get     ],
+356 silly get     server: 'cloudflare'
+356 silly get   }
+356 silly get ]
+357 verbose get saving @types/react to C:\Users\Ayishatu\AppData\Local\npm-cache\registry.yarnpkg.com\_40types_252freact\.cache.json
+358 verbose correctMkdir C:\Users\Ayishatu\AppData\Local\npm-cache correctMkdir not in flight; initializing
+359 silly addNameTag next cb for @types/react with tag latest
+360 silly addNamed @types/react@19.1.12
+361 verbose addNamed "19.1.12" is a plain semver version for @types/react
+362 silly mapToRegistry name @types/react
+363 silly mapToRegistry scope (from package name) @types
+364 verbose mapToRegistry no registry URL found in name for scope @types
+365 silly mapToRegistry using default registry
+366 silly mapToRegistry registry https://registry.yarnpkg.com/
+367 silly mapToRegistry data Result {
+367 silly mapToRegistry   raw: '@types/react',
+367 silly mapToRegistry   scope: '@types',
+367 silly mapToRegistry   name: '@types/react',
+367 silly mapToRegistry   rawSpec: '',
+367 silly mapToRegistry   spec: 'latest',
+367 silly mapToRegistry   type: 'tag'
+367 silly mapToRegistry }
+368 silly mapToRegistry uri https://registry.yarnpkg.com/@types%2freact
+369 verbose addRemoteTarball https://registry.npmjs.org/@types/react/-/react-19.1.12.tgz not in flight; adding
+370 verbose addRemoteTarball [
+370 verbose addRemoteTarball   'https://registry.npmjs.org/@types/react/-/react-19.1.12.tgz',
+370 verbose addRemoteTarball   '7bfaa76aabbb0b4fe0493c21a3a7a93d33e8937b'
+370 verbose addRemoteTarball ]
+371 info retry fetch attempt 1 at 12:18:05 pm
+372 info attempt registry request try #1 at 12:18:05 pm
+373 http fetch GET https://registry.npmjs.org/@types/react/-/react-19.1.12.tgz
+374 http fetch 200 https://registry.npmjs.org/@types/react/-/react-19.1.12.tgz
+375 silly fetchAndShaCheck shasum 7bfaa76aabbb0b4fe0493c21a3a7a93d33e8937b
+376 verbose addTmpTarball C:\Users\Ayishatu\AppData\Local\Temp\npm-1732-839da7aa\registry.npmjs.org\_40types\react\-\react-19.1.12.tgz not in flight; adding
+377 verbose addTmpTarball already have metadata; skipping unpack for @types/react@19.1.12
+378 verbose correctMkdir C:\Users\Ayishatu\AppData\Local\npm-cache correctMkdir not in flight; initializing
+379 silly cache afterAdd @types/react@19.1.12
+380 verbose afterAdd C:\Users\Ayishatu\AppData\Local\npm-cache\@types\react\19.1.12\package\package.json not in flight; writing
+381 verbose correctMkdir C:\Users\Ayishatu\AppData\Local\npm-cache correctMkdir not in flight; initializing
+382 verbose afterAdd C:\Users\Ayishatu\AppData\Local\npm-cache\@types\react\19.1.12\package\package.json written
+383 http 200 https://registry.yarnpkg.com/@types%2fnode
+384 verbose headers {
+384 verbose headers   date: 'Mon, 08 Sep 2025 12:18:05 GMT',
+384 verbose headers   'content-type': 'application/json',
+384 verbose headers   'transfer-encoding': 'chunked',
+384 verbose headers   connection: 'keep-alive',
+384 verbose headers   'content-encoding': 'gzip',
+384 verbose headers   'cf-ray': '97be62ef3bd9aa64-CPT',
+384 verbose headers   'cf-cache-status': 'HIT',
+384 verbose headers   'access-control-allow-origin': '*',
+384 verbose headers   age: '278',
+384 verbose headers   'cache-control': 'public, max-age=300',
+384 verbose headers   etag: 'W/"abd7ab9dff6b6608dda48d198de5b941"',
+384 verbose headers   'last-modified': 'Thu, 04 Sep 2025 10:03:13 GMT',
+384 verbose headers   vary: 'accept-encoding, accept',
+384 verbose headers   'set-cookie': [
+384 verbose headers     '_cfuvid=MPCV.O93vXfvUQH6siRE58o5GOVs.jsLAZXbNkNIYEc-1757333885363-0.0.1.1-604800000; path=/; domain=.registry.yarnpkg.com; HttpOnly; Secure; SameSite=None'
+384 verbose headers   ],
+384 verbose headers   server: 'cloudflare'
+384 verbose headers }
+385 silly get cb [
+385 silly get   200,
+385 silly get   {
+385 silly get     date: 'Mon, 08 Sep 2025 12:18:05 GMT',
+385 silly get     'content-type': 'application/json',
+385 silly get     'transfer-encoding': 'chunked',
+385 silly get     connection: 'keep-alive',
+385 silly get     'content-encoding': 'gzip',
+385 silly get     'cf-ray': '97be62ef3bd9aa64-CPT',
+385 silly get     'cf-cache-status': 'HIT',
+385 silly get     'access-control-allow-origin': '*',
+385 silly get     age: '278',
+385 silly get     'cache-control': 'public, max-age=300',
+385 silly get     etag: 'W/"abd7ab9dff6b6608dda48d198de5b941"',
+385 silly get     'last-modified': 'Thu, 04 Sep 2025 10:03:13 GMT',
+385 silly get     vary: 'accept-encoding, accept',
+385 silly get     'set-cookie': [
+385 silly get       '_cfuvid=MPCV.O93vXfvUQH6siRE58o5GOVs.jsLAZXbNkNIYEc-1757333885363-0.0.1.1-604800000; path=/; domain=.registry.yarnpkg.com; HttpOnly; Secure; SameSite=None'
+385 silly get     ],
+385 silly get     server: 'cloudflare'
+385 silly get   }
+385 silly get ]
+386 verbose get saving @types/node to C:\Users\Ayishatu\AppData\Local\npm-cache\registry.yarnpkg.com\_40types_252fnode\.cache.json
+387 verbose correctMkdir C:\Users\Ayishatu\AppData\Local\npm-cache correctMkdir not in flight; initializing
+388 silly addNameTag next cb for @types/node with tag latest
+389 silly addNamed @types/node@24.3.1
+390 verbose addNamed "24.3.1" is a plain semver version for @types/node
+391 silly cache afterAdd @types/node@24.3.1
+392 verbose afterAdd C:\Users\Ayishatu\AppData\Local\npm-cache\@types\node\24.3.1\package\package.json not in flight; writing
+393 verbose correctMkdir C:\Users\Ayishatu\AppData\Local\npm-cache correctMkdir not in flight; initializing
+394 verbose afterAdd C:\Users\Ayishatu\AppData\Local\npm-cache\@types\node\24.3.1\package\package.json written
+395 silly install resolved [
+395 silly install resolved   {
+395 silly install resolved     name: '@types/react',
+395 silly install resolved     version: '19.1.12',
+395 silly install resolved     license: 'MIT',
+395 silly install resolved     _id: '@types/react@19.1.12',
+395 silly install resolved     maintainers: [ [Object] ],
+395 silly install resolved     contributors: [
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object]
+395 silly install resolved     ],
+395 silly install resolved     homepage: 'https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react',
+395 silly install resolved     dist: {
+395 silly install resolved       shasum: '7bfaa76aabbb0b4fe0493c21a3a7a93d33e8937b',
+395 silly install resolved       tarball: 'https://registry.npmjs.org/@types/react/-/react-19.1.12.tgz',
+395 silly install resolved       fileCount: 28,
+395 silly install resolved       integrity: 'sha512-cMoR+FoAf/Jyq6+Df2/Z41jISvGZZ2eTlnsaJRptmZ76Caldwy1odD4xTr/gNV9VLj0AWgg/nmkevIyUfIIq5w==',
+395 silly install resolved       signatures: [Array],
+395 silly install resolved       unpackedSize: 808145
+395 silly install resolved     },
+395 silly install resolved     main: '',
+395 silly install resolved     types: 'index.d.ts',
+395 silly install resolved     exports: {
+395 silly install resolved       '.': [Object],
+395 silly install resolved       './canary': [Object],
+395 silly install resolved       './jsx-runtime': [Object],
+395 silly install resolved       './experimental': [Object],
+395 silly install resolved       './package.json': './package.json',
+395 silly install resolved       './jsx-dev-runtime': [Object],
+395 silly install resolved       './compiler-runtime': [Object]
+395 silly install resolved     },
+395 silly install resolved     scripts: {},
+395 silly install resolved     _npmUser: { name: 'types', email: 'ts-npm-types@microsoft.com' },
+395 silly install resolved     repository: {
+395 silly install resolved       url: 'https://github.com/DefinitelyTyped/DefinitelyTyped.git',
+395 silly install resolved       type: 'git',
+395 silly install resolved       directory: 'types/react'
+395 silly install resolved     },
+395 silly install resolved     description: 'TypeScript definitions for react',
+395 silly install resolved     directories: {},
+395 silly install resolved     dependencies: { csstype: '^3.0.2' },
+395 silly install resolved     typesVersions: { '<=5.0': [Object] },
+395 silly install resolved     _hasShrinkwrap: false,
+395 silly install resolved     peerDependencies: {},
+395 silly install resolved     typeScriptVersion: '5.2',
+395 silly install resolved     _npmOperationalInternal: {
+395 silly install resolved       tmp: 'tmp/react_19.1.12_1756314153242_0.7128175076566821',
+395 silly install resolved       host: 's3://npm-registry-packages-npm-production'
+395 silly install resolved     },
+395 silly install resolved     typesPublisherContentHash: '59e7509ab740518a751d8910ee1150e7e8056ac89bef5db10db693128940b821',
+395 silly install resolved     _shasum: '7bfaa76aabbb0b4fe0493c21a3a7a93d33e8937b',
+395 silly install resolved     _resolved: 'https://registry.npmjs.org/@types/react/-/react-19.1.12.tgz',
+395 silly install resolved     _from: '@types/react@latest'
+395 silly install resolved   },
+395 silly install resolved   {
+395 silly install resolved     name: '@types/node',
+395 silly install resolved     version: '24.3.1',
+395 silly install resolved     license: 'MIT',
+395 silly install resolved     _id: '@types/node@24.3.1',
+395 silly install resolved     maintainers: [ [Object] ],
+395 silly install resolved     contributors: [
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object],
+395 silly install resolved       [Object], [Object], [Object]
+395 silly install resolved     ],
+395 silly install resolved     homepage: 'https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node',
+395 silly install resolved     dist: {
+395 silly install resolved       shasum: 'b0a3fb2afed0ef98e8d7f06d46ef6349047709f3',
+395 silly install resolved       tarball: 'https://registry.npmjs.org/@types/node/-/node-24.3.1.tgz',
+395 silly install resolved       fileCount: 85,
+395 silly install resolved       integrity: 'sha512-3vXmQDXy+woz+gnrTvuvNrPzekOi+Ds0ReMxw0LzBiK3a+1k0kQn9f2NWk+lgD4rJehFUmYy2gMhJ2ZI+7YP9g==',
+395 silly install resolved       signatures: [Array],
+395 silly install resolved       unpackedSize: 2406939
+395 silly install resolved     },
+395 silly install resolved     main: '',
+395 silly install resolved     types: 'index.d.ts',
+395 silly install resolved     scripts: {},
+395 silly install resolved     _npmUser: { name: 'types', email: 'ts-npm-types@microsoft.com' },
+395 silly install resolved     repository: {
+395 silly install resolved       url: 'git+https://github.com/DefinitelyTyped/DefinitelyTyped.git',
+395 silly install resolved       type: 'git',
+395 silly install resolved       directory: 'types/node'
+395 silly install resolved     },
+395 silly install resolved     description: 'TypeScript definitions for node',
+395 silly install resolved     directories: {},
+395 silly install resolved     dependencies: { 'undici-types': '~7.10.0' },
+395 silly install resolved     typesVersions: { '<=5.6': [Object], '<=5.7': [Object] },
+395 silly install resolved     _hasShrinkwrap: false,
+395 silly install resolved     peerDependencies: {},
+395 silly install resolved     typeScriptVersion: '5.2',
+395 silly install resolved     _npmOperationalInternal: {
+395 silly install resolved       tmp: 'tmp/node_24.3.1_1756980160670_0.1572719508369389',
+395 silly install resolved       host: 's3://npm-registry-packages-npm-production'
+395 silly install resolved     },
+395 silly install resolved     typesPublisherContentHash: '178c30a76a74f3afb6f7d4e412cd6957c2fb4bb51e6666143a72508c73a154c7',
+395 silly install resolved     _shasum: 'b0a3fb2afed0ef98e8d7f06d46ef6349047709f3',
+395 silly install resolved     _resolved: 'https://registry.npmjs.org/@types/node/-/node-24.3.1.tgz',
+395 silly install resolved     _from: '@types/node@latest',
+395 silly install resolved     bugs: {
+395 silly install resolved       url: 'https://github.com/DefinitelyTyped/DefinitelyTyped/issues'
+395 silly install resolved     },
+395 silly install resolved     readme: 'ERROR: No README data found!'
+395 silly install resolved   }
+395 silly install resolved ]
+396 info install @types/react@19.1.12 into C:\Users\Ayishatu\BreakPoint\frontend
+397 info install @types/node@24.3.1 into C:\Users\Ayishatu\BreakPoint\frontend
+398 info installOne @types/react@19.1.12
+399 verbose installOne of @types/react to C:\Users\Ayishatu\BreakPoint\frontend not in flight; installing
+400 verbose correctMkdir C:\Users\Ayishatu\AppData\Local\npm-cache\_locks correctMkdir not in flight; initializing
+401 info installOne @types/node@24.3.1
+402 verbose installOne of @types/node to C:\Users\Ayishatu\BreakPoint\frontend not in flight; installing
+403 verbose correctMkdir C:\Users\Ayishatu\AppData\Local\npm-cache\_locks correctMkdir already in flight; waiting
+404 verbose lock using C:\Users\Ayishatu\AppData\Local\npm-cache\_locks\types-react-2c5ee4a81e643a43.lock for C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react
+405 verbose lock using C:\Users\Ayishatu\AppData\Local\npm-cache\_locks\types-node-504a83edce91b1b9.lock for C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node
+406 silly install write writing @types/react 19.1.12 to C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react
+407 silly install write writing @types/node 24.3.1 to C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node
+408 verbose unbuild node_modules\@types\react
+409 verbose unbuild node_modules\@types\node
+410 silly gentlyRm C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react is being purged from base C:\Users\Ayishatu\BreakPoint\frontend
+411 verbose gentlyRm don't care about contents; nuking C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react
+412 silly gentlyRm C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node is being purged from base C:\Users\Ayishatu\BreakPoint\frontend
+413 verbose gentlyRm don't care about contents; nuking C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node
+414 verbose tar unpack C:\Users\Ayishatu\AppData\Local\npm-cache\@types\react\19.1.12\package.tgz
+415 verbose tar unpacking to C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react
+416 silly gentlyRm C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react is being purged
+417 verbose gentlyRm don't care about contents; nuking C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react
+418 verbose tar unpack C:\Users\Ayishatu\AppData\Local\npm-cache\@types\node\24.3.1\package.tgz
+419 verbose tar unpacking to C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node
+420 silly gentlyRm C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node is being purged
+421 verbose gentlyRm don't care about contents; nuking C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node
+422 silly gunzTarPerm modes [ '777', '666' ]
+423 silly gunzTarPerm modes [ '777', '666' ]
+424 silly gunzTarPerm extractEntry
+425 silly gunzTarPerm modified mode [ '', 493, 511 ]
+426 silly gunzTarPerm extractEntry
+427 silly gunzTarPerm modified mode [ '', 493, 511 ]
+428 silly gunzTarPerm extractEntry
+429 silly gunzTarPerm modified mode [ '', 420, 438 ]
+430 silly gunzTarPerm extractEntry
+431 silly gunzTarPerm modified mode [ '', 420, 438 ]
+432 silly gunzTarPerm extractEntry
+433 silly gunzTarPerm modified mode [ '', 420, 438 ]
+434 silly gunzTarPerm extractEntry
+435 silly gunzTarPerm modified mode [ '', 420, 438 ]
+436 silly gunzTarPerm extractEntry
+437 silly gunzTarPerm modified mode [ '', 420, 438 ]
+438 silly gunzTarPerm extractEntry
+439 silly gunzTarPerm modified mode [ '', 493, 511 ]
+440 silly gunzTarPerm extractEntry
+441 silly gunzTarPerm modified mode [ '', 420, 438 ]
+442 silly gunzTarPerm extractEntry
+443 silly gunzTarPerm modified mode [ '', 420, 438 ]
+444 silly gunzTarPerm extractEntry
+445 silly gunzTarPerm modified mode [ '', 420, 438 ]
+446 silly gunzTarPerm extractEntry
+447 silly gunzTarPerm modified mode [ '', 420, 438 ]
+448 silly gunzTarPerm extractEntry
+449 silly gunzTarPerm modified mode [ '', 420, 438 ]
+450 silly gunzTarPerm extractEntry
+451 silly gunzTarPerm modified mode [ '', 420, 438 ]
+452 silly gunzTarPerm extractEntry
+453 silly gunzTarPerm modified mode [ '', 420, 438 ]
+454 silly gunzTarPerm extractEntry
+455 silly gunzTarPerm modified mode [ '', 420, 438 ]
+456 silly gunzTarPerm extractEntry
+457 silly gunzTarPerm modified mode [ '', 420, 438 ]
+458 silly gunzTarPerm extractEntry
+459 silly gunzTarPerm modified mode [ '', 420, 438 ]
+460 silly gunzTarPerm extractEntry
+461 silly gunzTarPerm modified mode [ '', 420, 438 ]
+462 silly gunzTarPerm extractEntry
+463 silly gunzTarPerm modified mode [ '', 420, 438 ]
+464 silly gunzTarPerm extractEntry
+465 silly gunzTarPerm modified mode [ '', 420, 438 ]
+466 silly gunzTarPerm extractEntry
+467 silly gunzTarPerm modified mode [ '', 493, 511 ]
+468 silly gunzTarPerm extractEntry
+469 silly gunzTarPerm modified mode [ '', 420, 438 ]
+470 silly gunzTarPerm extractEntry
+471 silly gunzTarPerm modified mode [ '', 493, 511 ]
+472 silly gunzTarPerm extractEntry
+473 silly gunzTarPerm modified mode [ '', 420, 438 ]
+474 silly gunzTarPerm extractEntry
+475 silly gunzTarPerm modified mode [ '', 420, 438 ]
+476 silly gunzTarPerm extractEntry
+477 silly gunzTarPerm modified mode [ '', 420, 438 ]
+478 silly gunzTarPerm extractEntry
+479 silly gunzTarPerm modified mode [ '', 420, 438 ]
+480 silly gunzTarPerm extractEntry
+481 silly gunzTarPerm modified mode [ '', 420, 438 ]
+482 silly gunzTarPerm extractEntry
+483 silly gunzTarPerm modified mode [ '', 420, 438 ]
+484 silly gunzTarPerm extractEntry
+485 silly gunzTarPerm modified mode [ '', 420, 438 ]
+486 silly gunzTarPerm extractEntry
+487 silly gunzTarPerm modified mode [ '', 420, 438 ]
+488 silly gunzTarPerm extractEntry
+489 silly gunzTarPerm modified mode [ '', 493, 511 ]
+490 silly gunzTarPerm extractEntry
+491 silly gunzTarPerm modified mode [ '', 420, 438 ]
+492 silly gunzTarPerm extractEntry
+493 silly gunzTarPerm modified mode [ '', 420, 438 ]
+494 silly gunzTarPerm extractEntry
+495 silly gunzTarPerm modified mode [ '', 420, 438 ]
+496 silly gunzTarPerm extractEntry
+497 silly gunzTarPerm modified mode [ '', 420, 438 ]
+498 silly gunzTarPerm extractEntry
+499 silly gunzTarPerm modified mode [ '', 493, 511 ]
+500 silly gunzTarPerm extractEntry
+501 silly gunzTarPerm modified mode [ '', 420, 438 ]
+502 silly gunzTarPerm extractEntry
+503 silly gunzTarPerm modified mode [ '', 420, 438 ]
+504 silly gunzTarPerm extractEntry
+505 silly gunzTarPerm modified mode [ '', 420, 438 ]
+506 silly gunzTarPerm extractEntry
+507 silly gunzTarPerm modified mode [ '', 493, 511 ]
+508 silly gunzTarPerm extractEntry
+509 silly gunzTarPerm modified mode [ '', 420, 438 ]
+510 silly gunzTarPerm extractEntry
+511 silly gunzTarPerm modified mode [ '', 420, 438 ]
+512 silly gunzTarPerm extractEntry
+513 silly gunzTarPerm modified mode [ '', 420, 438 ]
+514 silly gunzTarPerm extractEntry
+515 silly gunzTarPerm modified mode [ '', 420, 438 ]
+516 silly gunzTarPerm extractEntry
+517 silly gunzTarPerm modified mode [ '', 493, 511 ]
+518 silly gunzTarPerm extractEntry
+519 silly gunzTarPerm modified mode [ '', 420, 438 ]
+520 silly gunzTarPerm extractEntry
+521 silly gunzTarPerm modified mode [ '', 420, 438 ]
+522 silly gunzTarPerm extractEntry
+523 silly gunzTarPerm modified mode [ '', 420, 438 ]
+524 silly gunzTarPerm extractEntry
+525 silly gunzTarPerm modified mode [ '', 420, 438 ]
+526 silly gunzTarPerm extractEntry
+527 silly gunzTarPerm modified mode [ '', 420, 438 ]
+528 silly gunzTarPerm extractEntry
+529 silly gunzTarPerm modified mode [ '', 420, 438 ]
+530 silly gunzTarPerm extractEntry
+531 silly gunzTarPerm modified mode [ '', 420, 438 ]
+532 silly gunzTarPerm extractEntry
+533 silly gunzTarPerm modified mode [ '', 420, 438 ]
+534 silly gunzTarPerm extractEntry
+535 silly gunzTarPerm modified mode [ '', 420, 438 ]
+536 silly gunzTarPerm extractEntry
+537 silly gunzTarPerm modified mode [ '', 420, 438 ]
+538 silly gunzTarPerm extractEntry
+539 silly gunzTarPerm modified mode [ '', 420, 438 ]
+540 silly gunzTarPerm extractEntry
+541 silly gunzTarPerm modified mode [ '', 420, 438 ]
+542 silly gunzTarPerm extractEntry
+543 silly gunzTarPerm modified mode [ '', 420, 438 ]
+544 silly gunzTarPerm extractEntry
+545 silly gunzTarPerm modified mode [ '', 420, 438 ]
+546 silly gunzTarPerm extractEntry
+547 silly gunzTarPerm modified mode [ '', 420, 438 ]
+548 silly gunzTarPerm extractEntry
+549 silly gunzTarPerm modified mode [ '', 420, 438 ]
+550 silly gunzTarPerm extractEntry
+551 silly gunzTarPerm modified mode [ '', 420, 438 ]
+552 silly gunzTarPerm extractEntry
+553 silly gunzTarPerm modified mode [ '', 420, 438 ]
+554 silly gunzTarPerm extractEntry
+555 silly gunzTarPerm modified mode [ '', 420, 438 ]
+556 silly gunzTarPerm extractEntry
+557 silly gunzTarPerm modified mode [ '', 493, 511 ]
+558 silly gunzTarPerm extractEntry
+559 silly gunzTarPerm modified mode [ '', 420, 438 ]
+560 silly gunzTarPerm extractEntry
+561 silly gunzTarPerm modified mode [ '', 420, 438 ]
+562 silly gunzTarPerm extractEntry
+563 silly gunzTarPerm modified mode [ '', 420, 438 ]
+564 silly gunzTarPerm extractEntry
+565 silly gunzTarPerm modified mode [ '', 420, 438 ]
+566 silly gunzTarPerm extractEntry
+567 silly gunzTarPerm modified mode [ '', 493, 511 ]
+568 silly gunzTarPerm extractEntry
+569 silly gunzTarPerm modified mode [ '', 420, 438 ]
+570 silly gunzTarPerm extractEntry
+571 silly gunzTarPerm modified mode [ '', 420, 438 ]
+572 silly gunzTarPerm extractEntry
+573 silly gunzTarPerm modified mode [ '', 420, 438 ]
+574 silly gunzTarPerm extractEntry
+575 silly gunzTarPerm modified mode [ '', 493, 511 ]
+576 silly gunzTarPerm extractEntry
+577 silly gunzTarPerm modified mode [ '', 420, 438 ]
+578 silly gunzTarPerm extractEntry
+579 silly gunzTarPerm modified mode [ '', 420, 438 ]
+580 silly gunzTarPerm extractEntry
+581 silly gunzTarPerm modified mode [ '', 420, 438 ]
+582 silly gunzTarPerm extractEntry
+583 silly gunzTarPerm modified mode [ '', 493, 511 ]
+584 silly gunzTarPerm extractEntry
+585 silly gunzTarPerm modified mode [ '', 493, 511 ]
+586 silly gunzTarPerm extractEntry
+587 silly gunzTarPerm modified mode [ '', 420, 438 ]
+588 silly gunzTarPerm extractEntry
+589 silly gunzTarPerm modified mode [ '', 420, 438 ]
+590 verbose unlock done using C:\Users\Ayishatu\AppData\Local\npm-cache\_locks\types-react-2c5ee4a81e643a43.lock for C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react
+591 silly gunzTarPerm extractEntry
+592 silly gunzTarPerm modified mode [ '', 420, 438 ]
+593 silly gunzTarPerm extractEntry
+594 silly gunzTarPerm modified mode [ '', 420, 438 ]
+595 silly gunzTarPerm extractEntry
+596 silly gunzTarPerm modified mode [ '', 420, 438 ]
+597 silly gunzTarPerm extractEntry
+598 silly gunzTarPerm modified mode [ '', 420, 438 ]
+599 silly gunzTarPerm extractEntry
+600 silly gunzTarPerm modified mode [ '', 493, 511 ]
+601 silly gunzTarPerm extractEntry
+602 silly gunzTarPerm modified mode [ '', 420, 438 ]
+603 silly gunzTarPerm extractEntry
+604 silly gunzTarPerm modified mode [ '', 420, 438 ]
+605 silly gunzTarPerm extractEntry
+606 silly gunzTarPerm modified mode [ '', 420, 438 ]
+607 silly gunzTarPerm extractEntry
+608 silly gunzTarPerm modified mode [ '', 420, 438 ]
+609 silly gunzTarPerm extractEntry
+610 silly gunzTarPerm modified mode [ '', 420, 438 ]
+611 silly gunzTarPerm extractEntry
+612 silly gunzTarPerm modified mode [ '', 420, 438 ]
+613 silly gunzTarPerm extractEntry
+614 silly gunzTarPerm modified mode [ '', 420, 438 ]
+615 silly gunzTarPerm extractEntry
+616 silly gunzTarPerm modified mode [ '', 420, 438 ]
+617 silly gunzTarPerm extractEntry
+618 silly gunzTarPerm modified mode [ '', 420, 438 ]
+619 silly gunzTarPerm extractEntry
+620 silly gunzTarPerm modified mode [ '', 420, 438 ]
+621 silly gunzTarPerm extractEntry
+622 silly gunzTarPerm modified mode [ '', 420, 438 ]
+623 silly gunzTarPerm extractEntry
+624 silly gunzTarPerm modified mode [ '', 420, 438 ]
+625 silly gunzTarPerm extractEntry
+626 silly gunzTarPerm modified mode [ '', 493, 511 ]
+627 silly gunzTarPerm extractEntry
+628 silly gunzTarPerm modified mode [ '', 420, 438 ]
+629 silly gunzTarPerm extractEntry
+630 silly gunzTarPerm modified mode [ '', 420, 438 ]
+631 silly gunzTarPerm extractEntry
+632 silly gunzTarPerm modified mode [ '', 493, 511 ]
+633 silly gunzTarPerm extractEntry
+634 silly gunzTarPerm modified mode [ '', 420, 438 ]
+635 silly gunzTarPerm extractEntry
+636 silly gunzTarPerm modified mode [ '', 420, 438 ]
+637 silly gunzTarPerm extractEntry
+638 silly gunzTarPerm modified mode [ '', 420, 438 ]
+639 silly gunzTarPerm extractEntry
+640 silly gunzTarPerm modified mode [ '', 420, 438 ]
+641 silly gunzTarPerm extractEntry
+642 silly gunzTarPerm modified mode [ '', 420, 438 ]
+643 silly gunzTarPerm extractEntry
+644 silly gunzTarPerm modified mode [ '', 420, 438 ]
+645 silly gunzTarPerm extractEntry
+646 silly gunzTarPerm modified mode [ '', 420, 438 ]
+647 silly gunzTarPerm extractEntry
+648 silly gunzTarPerm modified mode [ '', 420, 438 ]
+649 silly gunzTarPerm extractEntry
+650 silly gunzTarPerm modified mode [ '', 420, 438 ]
+651 verbose unlock done using C:\Users\Ayishatu\AppData\Local\npm-cache\_locks\types-node-504a83edce91b1b9.lock for C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node
+652 verbose stack Error: ENOENT: no such file or directory, open 'C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react\package.json'
+653 verbose cwd C:\Users\Ayishatu\BreakPoint\frontend
+654 error Windows_NT 10.0.26100
+655 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\Ayishatu\\node_modules\\npm\\bin\\npm-cli.js" "install" "--save-exact" "--save-dev" "@types/react" "@types/node"
+656 error node v22.14.0
+657 error npm  v2.15.12
+658 error path C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react\package.json
+659 error code ENOTDIR
+660 error errno -4058
+661 error syscall open
+662 error ENOENT: no such file or directory, open 'C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react\package.json'
+663 error If you need help, you may report this error at:
+663 error     <https://github.com/npm/npm/issues>
+664 verbose exit [ -4058, true ]
+665 verbose unbuild node_modules\@types\react
+666 silly gentlyRm C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react is being purged from base C:\Users\Ayishatu\BreakPoint\frontend
+667 verbose gentlyRm don't care about contents; nuking C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react
+668 silly vacuum-fs purging C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\react
+669 silly vacuum-fs quitting because other entries in C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types
+670 verbose unbuild node_modules\@types\node
+671 silly gentlyRm C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node is being purged from base C:\Users\Ayishatu\BreakPoint\frontend
+672 verbose gentlyRm don't care about contents; nuking C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node
+673 silly vacuum-fs purging C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types\node
+674 silly vacuum-fs quitting because other entries in C:\Users\Ayishatu\BreakPoint\frontend\node_modules\@types

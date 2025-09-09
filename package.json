@@ -1,0 +1,22 @@
+{
+  "name": "breakpoint",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "concurrently --names backend,frontend \"npm run -w backend dev\" \"npm run -w frontend dev\"",
+    "dev:frontend": "npm run -w frontend dev",
+    "dev:backend": "npm run -w backend dev"
+  },
+  "devDependencies": {
+    "@types/node": "24.3.1",
+    "@types/react": "19.1.12",
+    "concurrently": "8.2.2"
+  },
+  "dependencies": {
+    "mongodb": "^6.19.0"
+  }
+}

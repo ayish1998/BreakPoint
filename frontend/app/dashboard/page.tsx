@@ -7,10 +7,11 @@ import PomodoroTimer from '../../components/PomodoroTimer';
 import DashboardSidebar from '../../components/DashboardSidebar';
 import DashboardTopbar from '../../components/DashboardTopbar';
 import { motion } from 'framer-motion';
+import BottomNav from '../../components/BottomNav';
 
 export default function DashboardPage() {
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen pb-14 md:pb-0">
       <div className="grid grid-cols-1 md:grid-cols-[16rem_1fr]">
         <DashboardSidebar />
         <div className="flex min-h-screen flex-col">
@@ -34,6 +35,7 @@ export default function DashboardPage() {
               <AIAssistant />
             </motion.section>
           </div>
+          <BottomNav />
         </div>
       </div>
     </main>

@@ -46,7 +46,7 @@ export default function AIAssistant() {
       </div>
 
       {error && <div className="mt-2 text-sm text-red-500">{error}</div>}
-      <div className="mt-3 max-h-56 overflow-auto space-y-2">
+      <div className="mt-3 max-h-56 overflow-auto space-y-2 sm:max-h-72">
         {messages.map((m, i) => (
           <div key={i} className={`flex ${m.role === 'assistant' ? 'justify-start' : 'justify-end'}`}>
             <div className={`max-w-[80%] rounded-2xl px-3 py-2 text-sm ${

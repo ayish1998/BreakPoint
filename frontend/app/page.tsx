@@ -11,7 +11,7 @@ export default function LandingPage() {
           <div className="absolute -top-24 left-1/2 h-72 w-72 -translate-x-1/2 rounded-full bg-brand/20 blur-3xl" />
         </div>
         {/* Hero */}
-        <section className="mx-auto grid max-w-6xl grid-cols-1 items-center gap-10 px-6 py-20 md:grid-cols-2">
+        <section className="mx-auto grid max-w-6xl grid-cols-1 items-center gap-8 px-4 py-16 sm:px-6 md:grid-cols-2 md:gap-10 md:py-20">
           <div>
             <span className="inline-flex items-center rounded-full border border-brand/30 bg-brand/10 px-3 py-1 text-xs text-brand">Designed for developers</span>
             <h1 className="mt-4 text-4xl md:text-6xl font-extrabold tracking-tight">
@@ -31,12 +31,12 @@ export default function LandingPage() {
         </section>
 
         {/* Features */}
-        <section className="mx-auto max-w-6xl px-6 pb-20">
+        <section className="mx-auto max-w-6xl px-4 sm:px-6 pb-24">
           <div className="text-center">
             <h2 className="text-2xl md:text-3xl font-bold">Everything you need to de-stress and deliver</h2>
             <p className="mt-2 text-gray-600 dark:text-gray-300">A focused toolkit crafted for developers</p>
           </div>
-          <div className="mt-8 grid grid-cols-1 gap-6 md:grid-cols-4">
+          <div className="mt-6 grid grid-cols-1 gap-4 sm:gap-6 md:grid-cols-4">
             {/* Breathing */}
             <div className="group relative overflow-hidden rounded-2xl border border-gray-200 dark:border-gray-800 bg-white/70 dark:bg-gray-900/70 p-6 transition hover:shadow-lg">
               <div className="absolute -top-10 -right-10 h-24 w-24 rounded-full bg-brand/10 blur-2xl transition group-hover:scale-125" />

@@ -7,6 +7,7 @@ const { connectToDatabase } = require('./utils/db');
 const authRoutes = require('./routes/auth');
 const journalRoutes = require('./routes/journal');
 const aiRoutes = require('./routes/ai');
+const communityRoutes = require('./routes/community');
 
 const app = express();
 
@@ -22,6 +23,7 @@ app.get('/health', (_req, res) => res.json({ ok: true, service: 'breakpoint-back
 app.use('/api/auth', authRoutes);
 app.use('/api/journal', journalRoutes);
 app.use('/api/ai', aiRoutes);
+app.use('/api/community', communityRoutes);
 
 const port = process.env.PORT || 4000;
 connectToDatabase()

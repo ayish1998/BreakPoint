@@ -46,6 +46,15 @@ export const api = {
         body: JSON.stringify({ content, mood, tags }),
       }),
   },
+  community: {
+    list: () => request('/api/community'),
+    create: (title: string, content: string, tags?: string[]) =>
+      request('/api/community', {
+        method: 'POST',
+        body: JSON.stringify({ title, content, tags }),
+      }),
+    upvote: (id: string) => request(`/api/community/${id}/upvote`, { method: 'POST' }),
+  },
   ai: {
     chat: (
       messages: { role: 'system' | 'user' | 'assistant'; content: string }[],

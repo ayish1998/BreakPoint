@@ -19,6 +19,7 @@ export default function DashboardSidebar() {
         <Link className="block rounded-md px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-900" href="#journal">Journal</Link>
         <Link className="block rounded-md px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-900" href="#ai">AI Assistant</Link>
         <Link className="block rounded-md px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-900" href="#pomodoro">Pomodoro</Link>
+        <Link className="block rounded-md px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-900" href="/community">Community</Link>
       </nav>
       <div className="mt-auto text-xs text-gray-500">Stay calm and keep shipping 🚀</div>
     </aside>

@@ -1,16 +1,15 @@
 const { Schema, model, Types } = require('mongoose');
 
-const journalEntrySchema = new Schema(
+const communityPostSchema = new Schema(
   {
     userId: { type: Types.ObjectId, ref: 'User', index: true, required: true },
+    title: { type: String, required: true },
     content: { type: String, required: true },
-    mood: { type: String },
-    sentiment: { type: String },
-    moodScore: { type: Number },
     tags: [{ type: String }],
+    upvotes: { type: Number, default: 0 },
   },
   { timestamps: true }
 );
 
-module.exports = model('JournalEntry', journalEntrySchema);
+module.exports = model('CommunityPost', communityPostSchema);
 
